@@ -5,6 +5,8 @@
 
 # CosyVerif server, client and library
 
+[![Join the chat at https://gitter.im/saucisson/lua-ws](https://badges.gitter.im/saucisson/lua-ws.svg)](https://gitter.im/saucisson/lua-ws?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository contains the server, command-line client, web client, and
 library of the [CosyVerif](http://cosyverif.org) platform.
 
